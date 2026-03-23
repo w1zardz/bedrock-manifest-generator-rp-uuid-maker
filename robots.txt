@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://w1zardz.github.io/bedrock-manifest-generator-rp-uuid-maker/sitemap.xml
